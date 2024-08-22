@@ -1,0 +1,45 @@
+.navbar img,a,h1,img{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Rate{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 60px 10px 60px;
+    text-align: left;
+}
+.oo{
+text-align:justify;
+color: red;
+}
+.one{
+    text-align:center ;
+}
+.para{
+    text-align: center;
+    font-size: 18px;
+}
+div.Rate1{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 10px 60px 10px 60px;
+        text-align: left;
+        align-items: center;
+       
+    }
+    div.onic img{
+        align-self: center;
+    }
+    .late{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding: 10px 60px 10px 60px;
+    }
+    .you{
+        align-items: center;
+    }
+    
